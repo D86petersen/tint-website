@@ -1,0 +1,15 @@
+{
+  "name": "NoGlareZoneCA Auto Tint",
+  "short_name": "NoGlareZoneCA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020202",
+  "theme_color": "#020202",
+  "icons": [
+    {
+      "src": "assets/noglarezoneca-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
